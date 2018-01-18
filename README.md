@@ -1,2 +1,0 @@
-# javaAndroidFLL
-Yes
